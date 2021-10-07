@@ -1,0 +1,11 @@
+How to scale the platform if the user / viewer of the content growing
+
+Using Collaboration with Load balancer, Kubernetes and Docker
+Needs to auto scalling to avoid the system down if got the high load traffic.
+Needs reliable system with monitoring tools and alert for preventive
+Deploy application on the proper platform
+
+in the docker case, to scalling the docker usually manage it with kubernetes
+
+Using a proper set up Pods, Service Discovery, Replication controllers, Scheduling, Self healing and Tearing down.
+
